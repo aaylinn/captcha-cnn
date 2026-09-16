@@ -46,6 +46,7 @@ Detaylar için [`onisleme.py`](onisleme.py) içindeki modül docstring'ine bakı
 
 ## Veri Seti
 <img width="135" height="45" alt="2g826" src="https://github.com/user-attachments/assets/27975504-3fb6-4a0a-884a-6f04866fd70b" />
+<img width="135" height="45" alt="4ce6y" src="https://github.com/user-attachments/assets/7c6bb931-3f17-4e75-b7e2-f0ac735edc84" />
 
 Eğitim/doğrulama görselleri Roboflow'da barındırılıyor:
 [Roboflow — captcha veri seti](https://app.roboflow.com/aylins-workspace-i3lbm/gradient-captcha/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
