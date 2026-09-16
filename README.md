@@ -47,7 +47,7 @@ Detaylar için [`onisleme.py`](onisleme.py) içindeki modül docstring'ine bakı
 ## Veri Seti
 
 Eğitim/doğrulama görselleri Roboflow'da barındırılıyor:
-[Roboflow — captcha veri seti](https://app.roboflow.com/aylins-workspace-i3lbm/captcha-7bol7/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
+[Roboflow — captcha veri seti](https://app.roboflow.com/aylins-workspace-i3lbm/gradient-captcha/browse?queryText=&pageSize=50&startingIndex=0&browseQuery=true)
 
 ## Kullanım
 
