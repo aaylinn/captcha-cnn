@@ -1,4 +1,3 @@
-<img width="135" height="45" alt="2g826" src="https://github.com/user-attachments/assets/89aa9c42-5c56-4a51-b6f9-f7b1246dd0c4" />
 # captcha-crnn
 
 Gradyan (renk geçişi) arka planlı, **sabit 5 karakterli** CAPTCHA görsellerini
