@@ -1,4 +1,4 @@
-# captcha-cnn
+# captcha-crnn
 
 Gradyan (renk geçişi) arka planlı, **sabit 5 karakterli** CAPTCHA görsellerini
 okuyan bir CNN modeli.
